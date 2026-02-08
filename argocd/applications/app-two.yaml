@@ -3,6 +3,10 @@
  metadata:
    name: app-two
    namespace: argocd
+   annotations:
+     argo.octopus.com/project: "test2"
+     argo.octopus.com/environment: "development"
+     argo.octopus.com/tenant: "emea"
  spec:
    project: default
    source:
