@@ -4,6 +4,6 @@
    - deployment.yaml
    - service.yaml
 
-images:
+ images:
   - name: nginx
     newTag: "1.26.2"
