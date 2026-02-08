@@ -11,7 +11,7 @@
    project: default
    source:
      repoURL: https://github.com/zivlevi/app-example
-     targetRevision: HEAD
+     targetRevision: main
      path: apps/app-one
    destination:
      server: https://kubernetes.default.svc
