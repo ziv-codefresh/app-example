@@ -10,7 +10,7 @@
  spec:
    project: default
    source:
-     repoURL: https://github.com/zivlevi/app-example
+     repoURL: https://github.com/ziv-codefresh/app-example
      targetRevision: main
      path: apps/app-one
    destination:
