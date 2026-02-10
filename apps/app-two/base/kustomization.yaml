@@ -6,4 +6,5 @@ resources:
 
 images:
   - name: nginx
-    newTag: "1.26.1"
+    newName: zivcodefresh/nginx
+    newTag: "1.26.2"
